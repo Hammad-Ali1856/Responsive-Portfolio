@@ -547,6 +547,10 @@ section .title::after {
     border-color: var(--white);
 }
 
+.testimonial .card .box .text a{
+    color: white;
+}
+
 .owl-dots {
     text-align: center;
     margin-top: 20px;
